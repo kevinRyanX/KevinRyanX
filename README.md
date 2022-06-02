@@ -11,5 +11,5 @@
   <br>
   <div>
     <a href="kevenjinx@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/[renato-barros-0ab4361a5](https://www.linkedin.com/in/kevin-ryan-do-nascimento-560bb3217/)/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/"></a>
+    <a href="https://www.linkedin.com/in/kevin-ryan-do-nascimento-560bb3217/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/"></a>
    
